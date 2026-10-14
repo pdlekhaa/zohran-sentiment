@@ -10,4 +10,6 @@ Workflow:
 6. Apply model to these comments to get a large dataset
 7. Perform analysis of public sentiment over time towards Mamdani.
 
+Final_Report.pdf contains detailed workflow and analysis of results.
+
 *Note model.safetensors was too big to upload
