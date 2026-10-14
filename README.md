@@ -1,5 +1,5 @@
-# 507-final-project
-This project fine-tuned a BERT model on YouTube comments about Zohran Mamdani and applied model to 3 YouTube channels to track sentiment over time. 
+# zohran-sentiment
+This project tracks sentiment towards Zohran Mamdani during his campaign for STATS 507 (Data Science and Analytics using Python) final project. This project fine-tuned a BERT model on YouTube comments about Zohran Mamdani and applied fine-tuned model to 3 YouTube news channels to track sentiment over time. 
 
 Workflow:
 1. Acquire ~200 comments about Mamdani -- at least 100 positive, and at least 100 negative
